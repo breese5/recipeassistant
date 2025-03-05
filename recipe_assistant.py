@@ -75,7 +75,7 @@ def generate_response(query):
 
 def streamlit_app():
     """Streamlit UI."""
-    st.title("🍳 Recipe Assistant (Manual RAG)")
+    st.title("🍳 RAG Recipe Assistant")
 
     query = st.text_input("Enter an ingredient or recipe name:")
     
