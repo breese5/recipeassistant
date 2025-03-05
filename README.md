@@ -1,4 +1,4 @@
-# recipeassistant
+# Recipe Assistant
 RECIPE ASSISTANT PROJECT FOR LLMs ASSIGNMENT 3
 
 -Deployment Available on Steamlit at: (URL)
